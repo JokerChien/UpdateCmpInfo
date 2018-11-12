@@ -13,3 +13,16 @@ F:\MyPrg\UpdateCmpInfo\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 F:\MyPrg\UpdateCmpInfo\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
 F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
 F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+G:\UpdateCmpInfo\ConsoleApp2\obj\Debug\UpdateCmpInfo.csprojResolveAssemblyReference.cache
+G:\UpdateCmpInfo\ConsoleApp2\obj\Debug\UpdateCmpInfo.csproj.CoreCompileInputs.cache
+G:\UpdateCmpInfo\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\UpdateCmpInfo\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\Google.Protobuf.dll
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\MySql.Data.dll
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\Google.Protobuf.xml
+G:\UpdateCmpInfo\ConsoleApp2\bin\Debug\MySql.Data.xml
