@@ -4,3 +4,12 @@ C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp
 C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\UpdateCmpInfo.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\obj\Debug\UpdateCmpInfo.csprojResolveAssemblyReference.cache
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\obj\Debug\UpdateCmpInfo.csproj.CoreCompileInputs.cache
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+F:\MyPrg\UpdateCmpInfo\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
